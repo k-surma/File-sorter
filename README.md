@@ -41,9 +41,9 @@ The GUI provides an intuitive interface for selecting a directory and choosing t
 
 
 ## Features
-*_Multiple Sorting Options:_ Choose to sort files by extension, initial letter, or last modified date.
-*_Interactive GUI:_ A user-friendly graphical interface for easy operation.
-*_CLI Support:_ A robust command-line version for script and automation use.
+* **Multiple Sorting Options** Choose to sort files by extension, initial letter, or last modified date.
+* **Interactive GUI:** A user-friendly graphical interface for easy operation.
+* **CLI Support:** A robust command-line version for script and automation use.
 
 ## Contributing
 Contributions to File Sorter are welcome! If you have suggestions for improvements or bug fixes, please open an issue or a pull request.
