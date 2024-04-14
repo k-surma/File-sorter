@@ -16,7 +16,6 @@ cd file-sorter
 To use the command-line version, navigate to the project directory and execute:
 
 ```bash
-Copy code
 python file_sorter_without_GUI.py
 ```
 
@@ -33,8 +32,7 @@ For those preferring a graphical approach, run the GUI version:
 
 
 ```bash
-Copy code
-python GUI_for_fs.py
+python main.py
 The GUI provides an intuitive interface for selecting a directory and choosing the sorting criterion.
 ```
 ![image](https://github.com/k-surma/File-sorter/assets/165564262/cdbea760-d0cb-411f-8244-cea60ce37d6d)
