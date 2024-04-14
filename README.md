@@ -11,8 +11,9 @@ git clone https://github.com/yourusername/file-sorter.git
 cd file-sorter
 ```
 
-##Usage
-###Command-Line Interface
+## Usage
+
+### Command-Line Interface
 To use the command-line version, navigate to the project directory and execute:
 
 ```bash
@@ -27,6 +28,7 @@ You will be prompted to input the directory you wish to sort. After that, you ca
 3.Modification time
 
 ##Graphical User Interface
+
 For those preferring a graphical approach, run the GUI version:
 
 
@@ -38,10 +40,10 @@ The GUI provides an intuitive interface for selecting a directory and choosing t
 ![image](https://github.com/k-surma/File-sorter/assets/165564262/cdbea760-d0cb-411f-8244-cea60ce37d6d)
 
 
-##Features
+## Features
 *_Multiple Sorting Options:_ Choose to sort files by extension, initial letter, or last modified date.
 *_Interactive GUI:_ A user-friendly graphical interface for easy operation.
 *_CLI Support:_ A robust command-line version for script and automation use.
 
-##Contributing
+## Contributing
 Contributions to File Sorter are welcome! If you have suggestions for improvements or bug fixes, please open an issue or a pull request.
